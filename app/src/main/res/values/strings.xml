@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AudioPlot</string>
+    <string name="record_start">Continue</string>
+    <string name="record_stop">Stop</string>
+    <string name="frequency">0</string>
+    <string name="freqPlotLabel">Frequency Domain Plot</string>
+    <string name="ampPlotLabel">Time Domain Plot</string>
+    <string name="information">AudioPlot shows ambient audio signals detected through the phone\'s microphone in
+    real-time and plots the detected signals in Frequency Domain and Time Domain.\n\nDeveloped by Anubhab Chakraborty\nSummer 2021\n</string>
+</resources>
