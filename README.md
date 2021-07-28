@@ -4,4 +4,4 @@ This is a Android app to detect and plot ambient audio signals recorded through 
 
 Its a cool visualizer.
 
-![](https://github.com/anubhabckbty/AudioPlot/blob/master/audioplot.gif)
+![](https://github.com/anubhabckbty/AudioPlot/blob/master/Screen Recording.mp4)
